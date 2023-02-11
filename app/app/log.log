@@ -1,0 +1,12 @@
+hello
+
+%(asctime%) from_amount = 10 from_curr = USD to_curr = USD
+%(asctime%) from_amount = 9 from_curr = USD to_curr = AED
+%(asctime%) from_amount =  from_curr = USD to_curr = AED
+%(asctime%) from_amount = 10 from_curr = USD to_curr = AED
+%(asctime%) from_amount = 1 from_curr = USD to_curr = AED
+%(asctime) from_amount = 90 from_curr = USD to_curr = AED
+Wed Jan 18 17:44:32 2023 from_amount = 67 from_curr = USD to_curr = AED
+time.struct_time(tm_year=2023, tm_mon=1, tm_mday=18, tm_hour=17, tm_min=46, tm_sec=27, tm_wday=2, tm_yday=18, tm_isdst=0) from_amount = 12 from_curr = USD to_curr = AED
+Wed Jan 18 17:48:53 2023 from_amount = 1 from_curr = USD to_curr = AED
+Wed Jan 18 17:48:57 2023 from_amount = 8 from_curr = USD to_curr = AED
